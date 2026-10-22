@@ -15,3 +15,4 @@ test("allocates past the per-run memory limit", () => {
   assert.equal(sum(2, 3), 5);
   assert.equal(held.length, 1537);
 });
+// Night 10 final-build (v27) trigger
