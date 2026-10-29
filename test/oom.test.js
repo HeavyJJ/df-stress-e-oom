@@ -18,3 +18,4 @@ test("allocates past the per-run memory limit", () => {
 // Night 10 final-build (v27) trigger
 // night12 v28 rerun
 // night15 v33 E5 trigger
+// night18 v34 retrigger
